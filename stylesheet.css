@@ -229,6 +229,9 @@ footer p{
 footer h5{
     color: white;
 }
+footer i{
+    color: wheat;
+}
 footer p:nth-child(1){
     font-size: 30px;
     color: white;
