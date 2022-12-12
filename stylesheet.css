@@ -223,6 +223,12 @@ footer{
     justify-content: center;
     padding: 25px;
 }
+footer p{
+    color: wheat;
+}
+footer h5{
+    color: white;
+}
 footer p:nth-child(1){
     font-size: 30px;
     color: white;
